@@ -1,5 +1,13 @@
 {
 	"name": "2208150050000612",
+	"properties": {
+		"globalParameters": {
+			"mygp": {
+				"type": "string",
+				"value": "abc"
+			}
+		}
+	},
 	"location": "westeurope",
 	"identity": {
 		"type": "SystemAssigned",
